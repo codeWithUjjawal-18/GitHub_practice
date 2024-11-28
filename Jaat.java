@@ -7,6 +7,13 @@ public static void main(String ... arg){
   System.out.println("Hello Ujjawal Chaudhary here!...");
   String s2= null;
 
+
+
+
+		// bug 300
+		int ii = 548;
+		System.out.println(ii);
+
   System.out.println("Hello World");
 }
 }

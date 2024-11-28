@@ -10,9 +10,6 @@ public static void main(String ... arg){
   // Bug 120
   String ss = "Ujjawal";
 
-
-
-
 		// bug 300
 		int ii = 548;
 		System.out.println(ii);

@@ -6,6 +6,9 @@ public static void main(String ... arg){
   String s1 = "Hai";
   System.out.println("Hello Ujjawal Chaudhary here!...");
   String s2= null;
+  
+  // Bug 120
+  String ss = "Ujjawal";
 
 
 
